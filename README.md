@@ -31,7 +31,7 @@ This project leverages advanced object detection techniques to analyze test data
 - **Data Manipulation** (NumPy, Pandas)
 
 ---
-## 🚀 **Dataset Overview**
+## 📽️ **Dataset Overview**
 
 The dataset is consisting of two parts.
 Top Part: Consists of the video of assembly line.
@@ -39,13 +39,6 @@ Bottom Part: Consists of a binary representation of defects if any for the above
 This can be used for generating the dataset further for classification of the objects into defective and non defecting.
 
 ![image](https://github.com/user-attachments/assets/9919ab00-2efb-43dd-aaf4-f59867a6ba6b)
-
-
-**Key Technologies**:
-- **Object Detection** (YOLO)
-- **Machine Learning** (TensorFlow, Keras)
-- **Computer Vision** (OpenCV)
-- **Data Manipulation** (NumPy, Pandas)
 
 ---
 
@@ -149,7 +142,7 @@ Pharmaceuticals: Detecting faulty capsules or products.
 
 Food Industry: Identifying defective fryums and similar items.
 
-## 🚀 **Using Roboflow**
+## 🌊 **Using Roboflow**
 
 Visit here: [RoboFlow](https://blog.roboflow.com/getting-started-with-roboflow/)
 
