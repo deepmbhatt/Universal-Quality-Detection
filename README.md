@@ -1,4 +1,4 @@
-# 🏭 **Universal Quality Inspection System** 
+![image](https://github.com/user-attachments/assets/117b90db-42f1-4a7c-9568-c53ac7f53529)# 🏭 **Universal Quality Inspection System** 
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5.3-brightgreen)
 ![YOLO](https://img.shields.io/badge/YOLO-v8-blue)
@@ -23,6 +23,23 @@ Manual inspections on manufacturing lines are inefficient, slow, and prone to hu
 ## 🚀 **Project Overview**
 
 This project leverages advanced object detection techniques to analyze test data, detect defects, and classify objects. The output is a video highlighting **defective materials with red borders** and **good materials with green borders**.
+
+**Key Technologies**:
+- **Object Detection** (YOLO)
+- **Machine Learning** (TensorFlow, Keras)
+- **Computer Vision** (OpenCV)
+- **Data Manipulation** (NumPy, Pandas)
+
+---
+## 🚀 **Dataset Overview**
+
+The dataset is consisting of two parts.
+Top Part: Consists of the video of assembly line.
+Bottom Part: Consists of a binary representation of defects if any for the above video. (Black for no defects and White for defects)
+This can be used for generating the dataset further for classification of the objects into defective and non defecting.
+
+![image](https://github.com/user-attachments/assets/9919ab00-2efb-43dd-aaf4-f59867a6ba6b)
+
 
 **Key Technologies**:
 - **Object Detection** (YOLO)
@@ -132,6 +149,9 @@ Pharmaceuticals: Detecting faulty capsules or products.
 
 Food Industry: Identifying defective fryums and similar items.
 
+## 🚀 **Using Roboflow**
+
+Visit here: [RoboFlow](https://blog.roboflow.com/getting-started-with-roboflow/)
 
 ## 🤖 Contributing
 We welcome contributions from the open-source community! To contribute:
