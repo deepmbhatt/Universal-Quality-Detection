@@ -34,6 +34,8 @@ This project leverages advanced object detection techniques to analyze test data
 
 ## 📂 **Project Flow**
 
+![image](https://github.com/user-attachments/assets/d383e66b-17ad-4bde-a90b-b50a2b02acf3)
+
 1. **Data Input**: The model accepts training and test data.
 2. **Image Processing**: The images are split into two parts:
     - Original Image
