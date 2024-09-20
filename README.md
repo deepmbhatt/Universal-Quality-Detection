@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/117b90db-42f1-4a7c-9568-c53ac7f53529)# 🏭 **Universal Quality Inspection System** 
+# 🏭 **Universal Quality Inspection System** 
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5.3-brightgreen)
 ![YOLO](https://img.shields.io/badge/YOLO-v8-blue)
@@ -11,6 +11,7 @@
 
 A universal machine learning solution for automating quality inspection and defect detection on manufacturing lines. Say goodbye to slow, inefficient manual inspections and hello to automated accuracy.
 ![image](https://github.com/user-attachments/assets/09c694d1-c3cf-4583-abc9-3bb92dd739e7)
+
 
 ---
 
@@ -124,7 +125,7 @@ The next iteration of this project will focus on:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/universal-quality-inspection.git
+   git clone https://github.com/deepmbhatt/Universal-Quality-Detection.git
    cd universal-quality-inspection
 2. Install Dependencies
    ```bash
