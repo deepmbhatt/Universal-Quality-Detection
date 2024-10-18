@@ -1,4 +1,4 @@
-# 🏭 **Universal Quality Inspection System** 
+# 🏭 **RIDAC: Real-Time Industrial Defect detection And Classification** 
 
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.5.3-brightgreen)
 ![YOLO](https://img.shields.io/badge/YOLO-v8-blue)
